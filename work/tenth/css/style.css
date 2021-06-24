@@ -121,7 +121,7 @@
 .btn-item:first-child {
   margin-left: 0;
 }
-.disabled {
+ .disabled{
   background-color: #888;
 }
 .disabled.btn-item {
